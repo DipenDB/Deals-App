@@ -10,7 +10,7 @@ eg. http://192.168.1.11:9000/assets/
 
 
 <video width="300" height="auto" controls>
-  <source src="./DealApp/Assets/Screenshot/DealApp.wmv" type="video/wmv">
+  <source src="DealApp/Assets/Screenshot/DealApp.mp4" type="video/mp4">
 </video>
 
 
