@@ -13,7 +13,11 @@ eg. http://192.168.1.11:9000/assets/
   <source src="DealApp/Assets/Screenshot/DealApp.mp4" type="video/mp4">
 </video>
 
-
+<img src="./DealApp/Assets/Screenshot/Welcome.png" width="300px" height="auto">
+<img src="./DealApp/Assets/Screenshot/Login.png" width="300px" height="auto">
+<img src="./DealApp/Assets/Screenshot/LoginError.png" width="300px" height="auto">
+<img src="./DealApp/Assets/Screenshot/Register.png" width="300px" height="auto">
+<img src="./DealApp/Assets/Screenshot/RegisterError.png" width="300px" height="auto">
 <img src="./DealApp/Assets/Screenshot/ProductList.png" width="300px" height="auto">
 <img src="./DealApp/Assets/Screenshot/ProductDetail.png" width="300px" height="auto">
 <img src="./DealApp/Assets/Screenshot/AddPost.png" width="300px" height="auto">
